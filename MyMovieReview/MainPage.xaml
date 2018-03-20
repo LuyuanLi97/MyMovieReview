@@ -1,0 +1,163 @@
+﻿<Page
+    x:Class="MyMovieReview.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MyMovieReview"
+    xmlns:md="using:MyMovieReview.Models"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Page.BottomAppBar>
+        <CommandBar>
+            <AppBarButton x:Name="AddAppBarBtn" Icon="Add" Label="Add" Click="AddAppBarBtn_Click"/>
+        </CommandBar>
+    </Page.BottomAppBar>
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <VisualStateManager.VisualStateGroups>
+            <VisualStateGroup x:Name="VisualStateGroup">
+                <VisualState x:Name="VisualStateMin0">
+                    <VisualState.Setters>
+                        <Setter Target="InlineMovieViewGrid.(UIElement.Visibility)" Value="Collapsed"/>
+                        <Setter Target="LeftColumn.(Grid.ColumnSpan)" Value="2"/>
+                    </VisualState.Setters>
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger MinWindowWidth="1"/>
+                    </VisualState.StateTriggers>
+                </VisualState>
+
+                <VisualState x:Name="VisualStateMin500">
+                    <VisualState.Setters>
+                        <Setter Target="LeftColumn.(Grid.ColumnSpan)" Value="2"/>
+                        <Setter Target="InlineMovieViewGrid.(UIElement.Visibility)" Value="Collapsed"/>
+                    </VisualState.Setters>
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger MinWindowWidth="501"/>
+                    </VisualState.StateTriggers>
+                </VisualState>
+
+                <VisualState x:Name="VisualStateMin800">
+                    <VisualState.Setters>
+                        <Setter Target="AddAppBarBtn.(Control.IsEnabled)" Value="false"/>
+                        <Setter Target="InlineMovieViewGrid.(UIElement.Visibility)" Value="Visible"/>
+                    </VisualState.Setters>
+                    <VisualState.StateTriggers>
+                        <AdaptiveTrigger MinWindowWidth="800"/>
+                    </VisualState.StateTriggers>
+                </VisualState>
+            </VisualStateGroup>
+        </VisualStateManager.VisualStateGroups>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <TextBlock x:Name="textBlock" Grid.Row="0" Text=" My Movie Review" Style="{StaticResource HeaderTextBlockStyle}" Margin="0,0,0,10"/>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <StackPanel x:Name="LeftColumn" Grid.Column="0">
+                <TextBlock Text="     Search my movie review"></TextBlock>
+                <Grid Height="40" Margin="20,5,20,20">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBox x:Name="MyMovieSearchBar" Width="250" Grid.Column="0" />
+                    <Button x:Name="MyMovieSearchBtn" Content="Search" Grid.Column="1" Margin="30,4,0,4" HorizontalAlignment="Left" Width="65" Click="MyMovieSearchBtn_Click"/>
+                </Grid>
+
+                <ListView  x:Name="MovieListView" IsItemClickEnabled="True" Margin="-10,-10,10,10" ItemClick="Movie_ItemClicked"
+                           ItemsSource="{x:Bind ViewModel.AllItems}">
+                    <ListView.ItemTemplate>
+                        <DataTemplate x:DataType="md:MovieItem">
+                            <UserControl>
+                                <Grid Height="80" Margin="20, 10, 0, 0">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="300"/>
+                                        <ColumnDefinition Width="Auto"/>
+                                        <ColumnDefinition Width="Auto"/>
+                                    </Grid.ColumnDefinitions>
+
+                                    <TextBlock x:Name="title" Grid.Column="0" Text="{x:Bind title}"  Foreground="Black" FontWeight="Bold" FontSize="30" LineHeight="30" TextWrapping="Wrap" />
+                                    <TextBlock x:Name="description" Grid.Column="0" Text="{x:Bind description}"  Foreground="Black" FontWeight="Normal" FontSize="15" LineHeight="30" TextWrapping="Wrap" VerticalAlignment="Bottom"/>
+                                    <TextBlock Grid.Column="1" Text="Rank" Foreground="Black" FontWeight="Bold" FontSize="15" LineHeight="20" TextWrapping="Wrap" VerticalAlignment="Top"/>
+                                    <TextBlock x:Name="rank" Grid.Column="1" Text="{x:Bind rank}" Foreground="Black" FontWeight="Bold" FontSize="15" LineHeight="20" TextWrapping="Wrap" VerticalAlignment="Center"/>
+                                    <AppBarButton x:Name="ShareBtn" Grid.Column="2" VerticalAlignment="Center" Icon="Send" IsCompact="True" Click="ShareBtn_Click"/>
+                                </Grid>
+                            </UserControl>
+                        </DataTemplate>
+                        
+                    </ListView.ItemTemplate>
+                    
+                </ListView>
+            </StackPanel>
+
+            <Grid x:Name="InlineMovieViewGrid" Grid.Column="1" >
+                <ScrollViewer>
+                    <StackPanel>
+                        <TextBlock Text="       Search movies from the Internet"></TextBlock>
+                        <Grid Height="40" Margin="0, 10, 0, 10">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="Auto"/>
+                            </Grid.ColumnDefinitions>
+
+                            <TextBox x:Name="WebMovieSearchBar" Width="250" Grid.Column="0" Margin="30, 0, 0, 0"/>
+                            <Button x:Name="WebMovieSearchBtn" Content="Search" Grid.Column="1" Margin="30, 0, 0, 0" Click="WebMovieSearchBtn_Click"/>
+                        </Grid>
+
+                        <Grid Height="250" Margin="0, 10, 0, 10">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+
+                            <StackPanel Grid.Column="0">
+                                <Image x:Name="WebMoviePoster"  Grid.Column="0" Source="Assets/film.jpg" Height="215" />
+                                <AppBarButton x:Name="ChangeImgAppBarBtn" Icon="Pictures" Label="Change Picture" Click="ChangeImgAppBarBtn_Click"/>
+                            </StackPanel>
+
+                            <StackPanel Grid.Column="1">
+                                <TextBlock x:Name="WebMovieTitle" Text="" FontWeight="Bold" FontSize="30" LineHeight="30" TextWrapping="Wrap" />
+                                <TextBlock x:Name="WebMovieInfo" Text="Get more details of the movie you want to watch by searching the title~" FontWeight="Normal" FontSize="15" LineHeight="30" TextWrapping="Wrap" Margin="10, 0, 10, 0"/>
+                            </StackPanel>
+                        </Grid>
+
+                        <Grid  Margin="0, 10, 0, 10">
+                            <StackPanel>
+                                <TextBox x:Name="SideTitle" Width="350" Header="Title" Margin="0,10,0,0" />
+                                <TextBox x:Name="SideDescription" Width="350" Height="70" Header="Description" Margin="0,10,0,0" TextWrapping="Wrap"/>
+                                <ComboBox x:Name="SideRank" Width="350" Header="Rank" Margin="0,10,0,0" HorizontalAlignment="Center" PlaceholderText="5" SelectedIndex="5">
+                                    <x:Double>0</x:Double>
+                                    <x:Double>1</x:Double>
+                                    <x:Double>2</x:Double>
+                                    <x:Double>3</x:Double>
+                                    <x:Double>4</x:Double>
+                                    <x:Double>5</x:Double>
+                                    <x:Double>6</x:Double>
+                                    <x:Double>7</x:Double>
+                                    <x:Double>8</x:Double>
+                                    <x:Double>9</x:Double>
+                                    <x:Double>10</x:Double>
+                                </ComboBox>
+                                <TextBox x:Name="SideReview" Width="350" Height="100" Header="My Review" Margin="0,10,0,0" TextWrapping="Wrap"/>
+                            </StackPanel>
+                        </Grid>
+
+                        <RelativePanel Width="350" Margin="0,24,0,0">
+                            <Button x:Name="SideCreateBtn" Content="Create" Click="createButton_Click" HorizontalAlignment="Left" Width="67"/>
+                            <Button x:Name="SideCancelBtn" Content="Cancel" Click="CancelButton_Click" RelativePanel.AlignRightWithPanel="True" HorizontalAlignment="Right"/>
+                        </RelativePanel>
+                    </StackPanel>
+                </ScrollViewer>
+            </Grid>
+        </Grid>
+    </Grid>
+</Page>

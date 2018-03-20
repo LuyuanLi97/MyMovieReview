@@ -1,0 +1,1635 @@
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\MyMovieReview.csprojResolveAssemblyReference.cache
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\App.g.i.cs
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\App.g.cs
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\MainPage.g.i.cs
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\MainPage.g.cs
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\XamlTypeInfo.g.cs
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\App.xaml
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\MainPage.xaml
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\App.xbf
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\MainPage.xbf
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\XamlSaveStateFile.xml
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\App.xbf
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\MainPage.xbf
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\MyMovieReview.xr.xml
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\MyMovieReview.exe
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\MyMovieReview.pdb
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\resources.pri
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\AppxManifest.xml
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\Core\AppxManifest.xml
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\Core\MyMovieReview.exe
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\MyMovieReview.build.appxrecipe
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\Microsoft.CSharp.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Core.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Numerics.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.Serialization.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ServiceModel.Web.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ServiceModel.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Windows.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Xml.Linq.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Xml.Serialization.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Xml.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\Microsoft.VisualBasic.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Private.DataContractSerialization.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.AppContext.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Collections.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Collections.Concurrent.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Collections.Immutable.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Collections.NonGeneric.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Collections.Specialized.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ComponentModel.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ComponentModel.Annotations.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Data.Common.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Diagnostics.Contracts.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Diagnostics.Debug.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Diagnostics.Tools.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Diagnostics.Tracing.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Dynamic.Runtime.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Globalization.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Globalization.Calendars.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Globalization.Extensions.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.IO.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.IO.Compression.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\ClrCompression.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.IO.FileSystem.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.IO.IsolatedStorage.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Linq.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Linq.Expressions.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Linq.Parallel.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Linq.Queryable.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.Http.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.Http.Rtc.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.NetworkInformation.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.Primitives.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.Requests.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.Sockets.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Numerics.Vectors.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ObjectModel.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Private.Networking.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Private.ServiceModel.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Private.Uri.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.Context.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.Emit.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.Extensions.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.Metadata.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.Primitives.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Resources.ResourceManager.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.Extensions.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.Handles.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.InteropServices.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.Numerics.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Security.Claims.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Security.Principal.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ServiceModel.Duplex.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ServiceModel.Http.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ServiceModel.Primitives.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ServiceModel.Security.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Text.Encoding.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Text.RegularExpressions.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Threading.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Threading.Overlapped.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Threading.Tasks.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Threading.Timer.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Xml.ReaderWriter.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Xml.XDocument.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Xml.XmlDocument.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Xml.XmlSerializer.dll
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\MyMovieReview.exe
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\MyMovieReview.pdb
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\ResourceHandlingTask.state
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.IO.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Linq.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Threading.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\priconfig.xml
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\priconfig.xml.intermediate
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\layout.resfiles
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\layout.resfiles.intermediate
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\resources.resfiles
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\resources.resfiles.intermediate
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\pri.resfiles
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\pri.resfiles.intermediate
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\qualifiers.txt
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\qualifiers.txt.intermediate
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\resources.en-us.resfiles
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\resources.en-us.resfiles.intermediate
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\ProjectArchitectures.txt
+E:\win10应用开发\MyMovieReview\MyMovieReview\bin\x86\Debug\NewPage.xbf
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\NewPage.g.i.cs
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\NewPage.g.cs
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\NewPage.xaml
+E:\win10应用开发\MyMovieReview\MyMovieReview\obj\x86\Debug\NewPage.xbf
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\App.xbf
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\NewPage.xbf
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\MainPage.xbf
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\MyMovieReview.xr.xml
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\MyMovieReview.exe
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\MyMovieReview.pdb
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\resources.pri
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\AppxManifest.xml
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\Core\AppxManifest.xml
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\Core\MyMovieReview.exe
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\MyMovieReview.build.appxrecipe
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\Microsoft.CSharp.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Core.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Numerics.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.Serialization.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ServiceModel.Web.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ServiceModel.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Windows.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Xml.Linq.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Xml.Serialization.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Xml.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\Microsoft.VisualBasic.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Private.DataContractSerialization.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.AppContext.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Collections.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Collections.Concurrent.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Collections.Immutable.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Collections.NonGeneric.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Collections.Specialized.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ComponentModel.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ComponentModel.Annotations.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Data.Common.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Diagnostics.Contracts.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Diagnostics.Debug.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Diagnostics.Tools.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Diagnostics.Tracing.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Dynamic.Runtime.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Globalization.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Globalization.Calendars.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Globalization.Extensions.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.IO.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.IO.Compression.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\ClrCompression.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.IO.FileSystem.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.IO.IsolatedStorage.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Linq.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Linq.Expressions.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Linq.Parallel.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Linq.Queryable.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.Http.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.Http.Rtc.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.NetworkInformation.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.Primitives.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.Requests.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.Sockets.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Numerics.Vectors.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ObjectModel.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Private.Networking.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Private.ServiceModel.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Private.Uri.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.Context.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.Emit.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.Extensions.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.Metadata.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.Primitives.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Resources.ResourceManager.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.Extensions.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.Handles.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.InteropServices.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.Numerics.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Security.Claims.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Security.Principal.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ServiceModel.Duplex.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ServiceModel.Http.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ServiceModel.Primitives.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ServiceModel.Security.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Text.Encoding.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Text.RegularExpressions.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Threading.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Threading.Overlapped.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Threading.Tasks.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Threading.Timer.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Xml.ReaderWriter.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Xml.XDocument.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Xml.XmlDocument.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Xml.XmlSerializer.dll
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\MyMovieReview.csprojResolveAssemblyReference.cache
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\App.g.i.cs
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\App.g.cs
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\NewPage.g.i.cs
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\NewPage.g.cs
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\MainPage.g.i.cs
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\MainPage.g.cs
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\XamlTypeInfo.g.cs
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\App.xaml
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\NewPage.xaml
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\MainPage.xaml
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\App.xbf
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\NewPage.xbf
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\MainPage.xbf
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\XamlSaveStateFile.xml
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\MyMovieReview.exe
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\MyMovieReview.pdb
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\ResourceHandlingTask.state
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.IO.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Linq.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Threading.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\priconfig.xml
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\priconfig.xml.intermediate
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\layout.resfiles
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\layout.resfiles.intermediate
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\resources.resfiles
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\resources.resfiles.intermediate
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\pri.resfiles
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\pri.resfiles.intermediate
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\qualifiers.txt
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\qualifiers.txt.intermediate
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\resources.en-us.resfiles
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\resources.en-us.resfiles.intermediate
+F:\sophomore2\modern_operating_systems\midterm\MyMovieReview\MyMovieReview\obj\x86\Debug\ProjectArchitectures.txt
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\App.xbf
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\NewPage.xbf
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\MainPage.xbf
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\MyMovieReview.xr.xml
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\MyMovieReview.exe
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\MyMovieReview.pdb
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\resources.pri
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\AppxManifest.xml
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\Core\AppxManifest.xml
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\Core\MyMovieReview.exe
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\MyMovieReview.build.appxrecipe
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\Microsoft.CSharp.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Core.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Numerics.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.Serialization.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ServiceModel.Web.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ServiceModel.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Windows.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Xml.Linq.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Xml.Serialization.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Xml.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\Microsoft.VisualBasic.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Private.DataContractSerialization.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.AppContext.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Collections.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Collections.Concurrent.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Collections.Immutable.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Collections.NonGeneric.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Collections.Specialized.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ComponentModel.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ComponentModel.Annotations.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Data.Common.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Diagnostics.Contracts.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Diagnostics.Debug.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Diagnostics.Tools.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Diagnostics.Tracing.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Dynamic.Runtime.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Globalization.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Globalization.Calendars.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Globalization.Extensions.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.IO.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.IO.Compression.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\ClrCompression.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.IO.FileSystem.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.IO.IsolatedStorage.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Linq.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Linq.Expressions.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Linq.Parallel.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Linq.Queryable.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.Http.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.Http.Rtc.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.NetworkInformation.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.Primitives.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.Requests.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.Sockets.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Numerics.Vectors.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ObjectModel.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Private.Networking.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Private.ServiceModel.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Private.Uri.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.Context.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.Emit.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.Extensions.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.Metadata.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.Primitives.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Resources.ResourceManager.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.Extensions.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.Handles.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.InteropServices.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.Numerics.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Security.Claims.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Security.Principal.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ServiceModel.Duplex.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ServiceModel.Http.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ServiceModel.Primitives.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ServiceModel.Security.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Text.Encoding.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Text.RegularExpressions.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Threading.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Threading.Overlapped.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Threading.Tasks.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Threading.Timer.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Xml.ReaderWriter.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Xml.XDocument.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Xml.XmlDocument.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Xml.XmlSerializer.dll
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\MyMovieReview.csprojResolveAssemblyReference.cache
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\App.g.i.cs
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\App.g.cs
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\NewPage.g.i.cs
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\NewPage.g.cs
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\MainPage.g.i.cs
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\MainPage.g.cs
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\XamlTypeInfo.g.cs
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\App.xaml
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\NewPage.xaml
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\MainPage.xaml
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\App.xbf
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\NewPage.xbf
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\MainPage.xbf
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\XamlSaveStateFile.xml
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\MyMovieReview.exe
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\MyMovieReview.pdb
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\ResourceHandlingTask.state
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.IO.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Linq.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Threading.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\priconfig.xml
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\priconfig.xml.intermediate
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\layout.resfiles
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\layout.resfiles.intermediate
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\resources.resfiles
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\resources.resfiles.intermediate
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\pri.resfiles
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\pri.resfiles.intermediate
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\qualifiers.txt
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\qualifiers.txt.intermediate
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\resources.en-us.resfiles
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\resources.en-us.resfiles.intermediate
+E:\win10应用开发\MyMovieReview1\MyMovieReview\MyMovieReview\obj\x86\Debug\ProjectArchitectures.txt
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\App.xbf
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\NewPage.xbf
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\MainPage.xbf
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\MyMovieReview.xr.xml
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\MyMovieReview.exe
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\MyMovieReview.pdb
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\resources.pri
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\AppxManifest.xml
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\Core\AppxManifest.xml
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\Core\MyMovieReview.exe
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\MyMovieReview.build.appxrecipe
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\Microsoft.CSharp.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Core.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Numerics.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.Serialization.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ServiceModel.Web.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ServiceModel.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Windows.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Xml.Linq.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Xml.Serialization.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Xml.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\Microsoft.VisualBasic.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Private.DataContractSerialization.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.AppContext.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Collections.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Collections.Concurrent.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Collections.Immutable.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Collections.NonGeneric.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Collections.Specialized.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ComponentModel.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ComponentModel.Annotations.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Data.Common.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Diagnostics.Contracts.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Diagnostics.Debug.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Diagnostics.Tools.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Diagnostics.Tracing.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Dynamic.Runtime.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Globalization.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Globalization.Calendars.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Globalization.Extensions.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.IO.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.IO.Compression.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\ClrCompression.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.IO.FileSystem.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.IO.IsolatedStorage.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Linq.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Linq.Expressions.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Linq.Parallel.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Linq.Queryable.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.Http.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.Http.Rtc.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.NetworkInformation.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.Primitives.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.Requests.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.Sockets.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Numerics.Vectors.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ObjectModel.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Private.Networking.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Private.ServiceModel.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Private.Uri.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.Context.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.Emit.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.Extensions.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.Metadata.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.Primitives.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Resources.ResourceManager.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.Extensions.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.Handles.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.InteropServices.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.Numerics.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Security.Claims.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Security.Principal.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ServiceModel.Duplex.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ServiceModel.Http.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ServiceModel.Primitives.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ServiceModel.Security.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Text.Encoding.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Text.RegularExpressions.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Threading.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Threading.Overlapped.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Threading.Tasks.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Threading.Timer.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Xml.ReaderWriter.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Xml.XDocument.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Xml.XmlDocument.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Xml.XmlSerializer.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\MyMovieReview.csprojResolveAssemblyReference.cache
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\App.g.i.cs
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\App.g.cs
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\NewPage.g.i.cs
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\NewPage.g.cs
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\MainPage.g.i.cs
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\MainPage.g.cs
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\XamlTypeInfo.g.cs
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\App.xaml
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\NewPage.xaml
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\MainPage.xaml
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\App.xbf
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\NewPage.xbf
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\MainPage.xbf
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\XamlSaveStateFile.xml
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\MyMovieReview.exe
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\MyMovieReview.pdb
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\ResourceHandlingTask.state
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.IO.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Linq.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Threading.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\priconfig.xml
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\priconfig.xml.intermediate
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\layout.resfiles
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\layout.resfiles.intermediate
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\resources.resfiles
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\resources.resfiles.intermediate
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\pri.resfiles
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\pri.resfiles.intermediate
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\qualifiers.txt
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\qualifiers.txt.intermediate
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\resources.en-us.resfiles
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\resources.en-us.resfiles.intermediate
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\ProjectArchitectures.txt
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\SQLitePCL.Ext.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\SQLitePCL.Ext.pri
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\bin\x86\Debug\SQLitePCL.dll
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\SQLitePCL\en\SQLitePCL.Resources.resw
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\MyMovieReview.csproj.GenerateResource.Cache
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\resources.en.resfiles
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\resources.en.resfiles.intermediate
+E:\大二下\现操\大项目1\MyMovieReview\MyMovieReview\obj\x86\Debug\SQLitePCL.Ext.pri.xml
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\MyMovieReview.exe
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\MyMovieReview.pdb
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\SQLitePCL.Ext.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\SQLitePCL.Ext.pri
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\App.xbf
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\NewPage.xbf
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\MainPage.xbf
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\MyMovieReview.xr.xml
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\MyMovieReview.exe
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\MyMovieReview.pdb
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\resources.pri
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\AppxManifest.xml
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\Core\MyMovieReview.exe
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\MyMovieReview.build.appxrecipe
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\Microsoft.CSharp.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Core.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Numerics.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.Serialization.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ServiceModel.Web.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ServiceModel.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Windows.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Xml.Linq.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Xml.Serialization.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Xml.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\Microsoft.VisualBasic.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Private.DataContractSerialization.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\SQLitePCL.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.AppContext.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Collections.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Collections.Concurrent.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Collections.Immutable.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Collections.NonGeneric.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Collections.Specialized.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ComponentModel.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Data.Common.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Diagnostics.Contracts.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Diagnostics.Debug.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Diagnostics.Tools.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Diagnostics.Tracing.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Dynamic.Runtime.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Globalization.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Globalization.Calendars.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Globalization.Extensions.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.IO.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.IO.Compression.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\ClrCompression.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.IO.FileSystem.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.IO.IsolatedStorage.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Linq.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Linq.Expressions.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Linq.Parallel.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Linq.Queryable.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.Http.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.Http.Rtc.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.NetworkInformation.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.Primitives.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.Requests.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ObjectModel.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Private.Networking.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Private.ServiceModel.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Private.Uri.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.Context.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.Emit.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.Extensions.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.Metadata.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.Primitives.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Resources.ResourceManager.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.Extensions.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.Handles.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.InteropServices.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.Numerics.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Security.Claims.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Security.Principal.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ServiceModel.Duplex.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ServiceModel.Http.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ServiceModel.Primitives.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.ServiceModel.Security.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Text.Encoding.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Text.RegularExpressions.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Threading.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Threading.Overlapped.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Threading.Tasks.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Threading.Timer.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Xml.ReaderWriter.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Xml.XDocument.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Xml.XmlDocument.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\System.Xml.XmlSerializer.dll
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\App.g.i.cs
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\App.g.cs
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\NewPage.g.i.cs
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\NewPage.g.cs
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\MainPage.g.cs
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\App.xaml
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\NewPage.xaml
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\MainPage.xaml
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\App.xbf
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\NewPage.xbf
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\MainPage.xbf
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.IO.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Linq.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Threading.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\SQLitePCL\en\SQLitePCL.Resources.resw
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\MyMovieReview.csproj.GenerateResource.Cache
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\priconfig.xml
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\layout.resfiles
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\resources.resfiles
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\pri.resfiles
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\qualifiers.txt
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\resources.en-us.resfiles
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\resources.en.resfiles
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\resources.en-us.resfiles.intermediate
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\resources.en.resfiles.intermediate
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\SQLitePCL.Ext.pri.xml
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\obj\x86\Debug\MyMovieReview.csprojResolveAssemblyReference.cache
+C:\Users\LIU\Desktop\MyMovieReview2.0\MyMovieReview\MyMovieReview\bin\x86\Debug\Newtonsoft.Json.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\MyMovieReview.exe
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\MyMovieReview.pdb
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\SQLitePCL.Ext.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\SQLitePCL.Ext.pri
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\App.xbf
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\NewPage.xbf
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\MainPage.xbf
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\MyMovieReview.xr.xml
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\MyMovieReview.exe
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\MyMovieReview.pdb
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\resources.pri
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\AppxManifest.xml
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\Core\AppxManifest.xml
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\Core\MyMovieReview.exe
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\MyMovieReview.build.appxrecipe
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\Microsoft.CSharp.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Core.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Net.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Numerics.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Runtime.Serialization.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.ServiceModel.Web.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.ServiceModel.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Windows.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Xml.Linq.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Xml.Serialization.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Xml.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\Microsoft.VisualBasic.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\Newtonsoft.Json.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Private.DataContractSerialization.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\SQLitePCL.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.AppContext.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Collections.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Collections.Concurrent.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Collections.Immutable.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Collections.NonGeneric.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Collections.Specialized.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.ComponentModel.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.ComponentModel.Annotations.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Data.Common.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Diagnostics.Contracts.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Diagnostics.Debug.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Diagnostics.Tools.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Diagnostics.Tracing.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Dynamic.Runtime.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Globalization.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Globalization.Calendars.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Globalization.Extensions.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.IO.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.IO.Compression.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\ClrCompression.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.IO.FileSystem.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.IO.IsolatedStorage.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Linq.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Linq.Expressions.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Linq.Parallel.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Linq.Queryable.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Net.Http.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Net.Http.Rtc.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Net.NetworkInformation.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Net.Primitives.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Net.Requests.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Net.Sockets.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Numerics.Vectors.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.ObjectModel.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Private.Networking.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Private.ServiceModel.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Private.Uri.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Reflection.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Reflection.Context.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Reflection.Emit.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Reflection.Extensions.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Reflection.Metadata.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Reflection.Primitives.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Resources.ResourceManager.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Runtime.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Runtime.Extensions.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Runtime.Handles.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Runtime.InteropServices.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Runtime.Numerics.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Security.Claims.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Security.Principal.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.ServiceModel.Duplex.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.ServiceModel.Http.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.ServiceModel.Primitives.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.ServiceModel.Security.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Text.Encoding.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Text.RegularExpressions.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Threading.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Threading.Overlapped.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Threading.Tasks.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Threading.Timer.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Xml.ReaderWriter.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Xml.XDocument.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Xml.XmlDocument.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Xml.XmlSerializer.dll
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\MyMovieReview.csprojResolveAssemblyReference.cache
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\App.g.i.cs
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\App.g.cs
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\NewPage.g.i.cs
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\NewPage.g.cs
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\MainPage.g.i.cs
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\MainPage.g.cs
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\XamlTypeInfo.g.cs
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\App.xaml
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\NewPage.xaml
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\MainPage.xaml
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\App.xbf
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\NewPage.xbf
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\MainPage.xbf
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\XamlSaveStateFile.xml
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\ResourceHandlingTask.state
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.IO.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Linq.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Threading.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\SQLitePCL\en\SQLitePCL.Resources.resw
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\MyMovieReview.csproj.GenerateResource.Cache
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\priconfig.xml
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\priconfig.xml.intermediate
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\layout.resfiles
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\layout.resfiles.intermediate
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\resources.resfiles
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\resources.resfiles.intermediate
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\pri.resfiles
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\pri.resfiles.intermediate
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\qualifiers.txt
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\qualifiers.txt.intermediate
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\resources.en-us.resfiles
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\resources.en.resfiles
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\resources.en-us.resfiles.intermediate
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\resources.en.resfiles.intermediate
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\SQLitePCL.Ext.pri.xml
+E:\win10应用开发\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\ProjectArchitectures.txt
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\SQLitePCL.Ext.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\SQLitePCL.Ext.pri
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\App.xbf
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\NewPage.xbf
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\MainPage.xbf
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\MyMovieReview.xr.xml
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\MyMovieReview.exe
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\MyMovieReview.pdb
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\resources.pri
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\AppxManifest.xml
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\Core\AppxManifest.xml
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\Core\MyMovieReview.exe
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\MyMovieReview.build.appxrecipe
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\Microsoft.CSharp.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Core.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Net.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Numerics.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Runtime.Serialization.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.ServiceModel.Web.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.ServiceModel.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Windows.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Xml.Linq.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Xml.Serialization.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Xml.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\Microsoft.VisualBasic.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\Newtonsoft.Json.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Private.DataContractSerialization.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\SQLitePCL.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.AppContext.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Collections.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Collections.Concurrent.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Collections.Immutable.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Collections.NonGeneric.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Collections.Specialized.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.ComponentModel.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.ComponentModel.Annotations.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Data.Common.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Diagnostics.Contracts.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Diagnostics.Debug.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Diagnostics.Tools.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Diagnostics.Tracing.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Dynamic.Runtime.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Globalization.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Globalization.Calendars.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Globalization.Extensions.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.IO.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.IO.Compression.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\ClrCompression.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.IO.FileSystem.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.IO.IsolatedStorage.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Linq.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Linq.Expressions.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Linq.Parallel.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Linq.Queryable.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Net.Http.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Net.Http.Rtc.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Net.NetworkInformation.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Net.Primitives.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Net.Requests.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Net.Sockets.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Numerics.Vectors.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.ObjectModel.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Private.Networking.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Private.ServiceModel.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Private.Uri.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Reflection.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Reflection.Context.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Reflection.Emit.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Reflection.Extensions.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Reflection.Metadata.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Reflection.Primitives.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Resources.ResourceManager.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Runtime.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Runtime.Extensions.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Runtime.Handles.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Runtime.InteropServices.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Runtime.Numerics.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Security.Claims.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Security.Principal.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.ServiceModel.Duplex.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.ServiceModel.Http.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.ServiceModel.Primitives.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.ServiceModel.Security.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Text.Encoding.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Text.RegularExpressions.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Threading.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Threading.Overlapped.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Threading.Tasks.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Threading.Timer.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Xml.ReaderWriter.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Xml.XDocument.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Xml.XmlDocument.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Xml.XmlSerializer.dll
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\MyMovieReview.csprojResolveAssemblyReference.cache
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\App.g.i.cs
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\App.g.cs
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\NewPage.g.i.cs
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\NewPage.g.cs
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\MainPage.g.i.cs
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\MainPage.g.cs
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\XamlTypeInfo.g.cs
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\App.xaml
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\NewPage.xaml
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\MainPage.xaml
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\App.xbf
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\NewPage.xbf
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\MainPage.xbf
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\XamlSaveStateFile.xml
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\MyMovieReview.exe
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\MyMovieReview.pdb
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\ResourceHandlingTask.state
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.IO.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Linq.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Threading.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\SQLitePCL\en\SQLitePCL.Resources.resw
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\MyMovieReview.csproj.GenerateResource.Cache
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\priconfig.xml
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\priconfig.xml.intermediate
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\layout.resfiles
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\layout.resfiles.intermediate
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\resources.resfiles
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\resources.resfiles.intermediate
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\pri.resfiles
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\pri.resfiles.intermediate
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\qualifiers.txt
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\qualifiers.txt.intermediate
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\resources.en-us.resfiles
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\resources.en.resfiles
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\resources.en-us.resfiles.intermediate
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\resources.en.resfiles.intermediate
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\SQLitePCL.Ext.pri.xml
+E:\大二下\现操\大项目1\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\ProjectArchitectures.txt
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\SQLitePCL.Ext.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\SQLitePCL.Ext.pri
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\App.xbf
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\NewPage.xbf
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\MainPage.xbf
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\MyMovieReview.xr.xml
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\MyMovieReview.exe
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\MyMovieReview.pdb
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\resources.pri
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\AppxManifest.xml
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\Core\AppxManifest.xml
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\Core\MyMovieReview.exe
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\MyMovieReview.build.appxrecipe
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\Microsoft.CSharp.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Core.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Net.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Numerics.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Runtime.Serialization.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.ServiceModel.Web.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.ServiceModel.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Windows.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Xml.Linq.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Xml.Serialization.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Xml.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\Microsoft.VisualBasic.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\Newtonsoft.Json.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Private.DataContractSerialization.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\SQLitePCL.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.AppContext.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Collections.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Collections.Concurrent.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Collections.Immutable.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Collections.NonGeneric.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Collections.Specialized.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.ComponentModel.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.ComponentModel.Annotations.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Data.Common.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Diagnostics.Contracts.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Diagnostics.Debug.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Diagnostics.Tools.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Diagnostics.Tracing.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Dynamic.Runtime.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Globalization.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Globalization.Calendars.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Globalization.Extensions.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.IO.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.IO.Compression.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\ClrCompression.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.IO.FileSystem.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.IO.IsolatedStorage.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Linq.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Linq.Expressions.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Linq.Parallel.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Linq.Queryable.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Net.Http.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Net.Http.Rtc.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Net.NetworkInformation.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Net.Primitives.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Net.Requests.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Net.Sockets.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Numerics.Vectors.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.ObjectModel.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Private.Networking.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Private.ServiceModel.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Private.Uri.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Reflection.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Reflection.Context.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Reflection.Emit.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Reflection.Extensions.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Reflection.Metadata.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Reflection.Primitives.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Resources.ResourceManager.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Runtime.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Runtime.Extensions.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Runtime.Handles.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Runtime.InteropServices.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Runtime.Numerics.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Security.Claims.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Security.Principal.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.ServiceModel.Duplex.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.ServiceModel.Http.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.ServiceModel.Primitives.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.ServiceModel.Security.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Text.Encoding.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Text.RegularExpressions.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Threading.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Threading.Overlapped.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Threading.Tasks.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Threading.Timer.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Xml.ReaderWriter.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Xml.XDocument.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Xml.XmlDocument.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\bin\x86\Debug\System.Xml.XmlSerializer.dll
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\MyMovieReview.csprojResolveAssemblyReference.cache
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\App.g.i.cs
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\App.g.cs
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\NewPage.g.i.cs
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\NewPage.g.cs
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\MainPage.g.i.cs
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\MainPage.g.cs
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\XamlTypeInfo.g.cs
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\App.xaml
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\NewPage.xaml
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\MainPage.xaml
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\App.xbf
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\NewPage.xbf
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\MainPage.xbf
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\XamlSaveStateFile.xml
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\MyMovieReview.exe
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\MyMovieReview.pdb
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\ResourceHandlingTask.state
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.IO.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Linq.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Threading.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\MyMovieReview.csproj.GenerateResource.Cache
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\priconfig.xml
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\priconfig.xml.intermediate
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\layout.resfiles
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\layout.resfiles.intermediate
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\resources.resfiles
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\resources.resfiles.intermediate
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\pri.resfiles
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\pri.resfiles.intermediate
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\qualifiers.txt
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\qualifiers.txt.intermediate
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\resources.en-us.resfiles
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\resources.en.resfiles
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\resources.en-us.resfiles.intermediate
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\resources.en.resfiles.intermediate
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\SQLitePCL.Ext.pri.xml
+E:\win10应用开发\midterm project\MyMovieReview\MyMovieReview3.0\MyMovieReview\obj\x86\Debug\ProjectArchitectures.txt

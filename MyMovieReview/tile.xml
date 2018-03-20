@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<tile>
+  <visual displayName="Todos">
+
+    <binding template = "TileSmall" branding="Name" displayName="MovieReview">
+      <text hint-style="subtitle" hint-wrap="true">title</text>
+      <image src="Assets/tile.jpg" placement="background"/>
+    </binding>
+
+    <binding template="TileMedium" displayName="MovieReview">
+      <text hint-style="subtitle" hint-wrap="true">title</text>
+      <text hint-wrap="true">Rank:</text>
+      <image src="Assets/tile.jpg" placement="background"/>
+    </binding>
+
+    <binding template="TileWide" displayName="MovieReview">
+      <text hint-style="subtitle" hint-wrap="true">title</text>
+      <text hint-wrap="true">Rank:</text>
+      <text hint-style="subtle" hint-wrap="true">Description:</text>
+      <image src="Assets/tile.jpg" placement="background"/>
+    </binding>
+
+    <binding template = "TileLarge" displayName="MovieReview">
+      <text hint-style="subtitle" hint-wrap="true">title</text>
+      <text hint-wrap="true">Rank:</text>
+      <text hint-style="subtle" hint-wrap="true">Description:</text>
+      <text hint-style="subtle" hint-wrap="true">Review:</text>
+      <image src="Assets/tile.jpg" placement="background"/>
+    </binding>
+    
+  </visual>
+</tile>
